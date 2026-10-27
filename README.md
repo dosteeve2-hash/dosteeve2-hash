@@ -74,6 +74,22 @@ Yapay zekâ, mühendislik veya proje yönetimi alanında; İstanbul'da, Tokat'ta
 | 🎓 | **[UEEMT-Tokat](https://ueemt-tokat.vercel.app)**<br>La plateforme en ligne d'une association étudiante, avec des animations fluides. <sub>Online platform for a student association. · Bir öğrenci derneği için çevrimiçi platform.</sub> | Next.js · Supabase · Framer Motion |
 | 📊 | **[CompTrack](https://comptrack-chi.vercel.app)**<br>Une application de comptabilité pour PME, conforme au référentiel SYSCOHADA. <sub>Accounting for small businesses, SYSCOHADA. · KOBİ'ler için SYSCOHADA muhasebesi.</sub> | Next.js · TypeScript · Tailwind CSS |
 
+## Projets en ligne &nbsp;·&nbsp; Live projects &nbsp;·&nbsp; Canlı projeler
+
+<table>
+<tr>
+<td align="center" width="96"><a href="https://duka-kappa.vercel.app"><img src="assets/brand/sugu.svg" alt="SUGU" width="56" height="56"><br><sub><b>SUGU</b></sub></a></td>
+<td align="center" width="96"><a href="https://taama-mu.vercel.app"><img src="assets/brand/milltrack.svg" alt="MillTrack" width="56" height="56"><br><sub><b>MillTrack</b></sub></a></td>
+<td align="center" width="96"><a href="https://comptrack-chi.vercel.app"><img src="assets/brand/comptrack.svg" alt="CompTrack" width="56" height="56"><br><sub><b>CompTrack</b></sub></a></td>
+<td align="center" width="96"><a href="https://valuechain-connect.vercel.app"><img src="assets/brand/valuechain-connect.svg" alt="ValueChain Connect" width="56" height="56"><br><sub><b>ValueChain Connect</b></sub></a></td>
+<td align="center" width="96"><a href="https://forja-pied.vercel.app"><img src="assets/brand/forja.svg" alt="FORJA" width="56" height="56"><br><sub><b>FORJA</b></sub></a></td>
+<td align="center" width="96"><a href="https://indubot-afrika.vercel.app"><img src="assets/brand/indubot.svg" alt="Indubot" width="56" height="56"><br><sub><b>Indubot</b></sub></a></td>
+<td align="center" width="96"><a href="https://burkinacollect-bf.vercel.app"><img src="assets/brand/burkinacollect.svg" alt="BurkinaCollect" width="56" height="56"><br><sub><b>BurkinaCollect</b></sub></a></td>
+<td align="center" width="96"><a href="https://fine-game-three.vercel.app"><img src="assets/brand/fine-game.svg" alt="FINE Game" width="56" height="56"><br><sub><b>FINE Game</b></sub></a></td>
+<td align="center" width="96"><a href="https://agrotrack-bf.vercel.app"><img src="assets/brand/agrotrack.svg" alt="AgroTrack" width="56" height="56"><br><sub><b>AgroTrack</b></sub></a></td>
+</tr>
+</table>
+
 ## Outils &nbsp;·&nbsp; Tools &nbsp;·&nbsp; Araçlar
 
 <p>
