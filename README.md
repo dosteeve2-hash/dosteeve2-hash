@@ -29,6 +29,8 @@
 
 Je cherche un **stage d'été 2027** en intelligence artificielle, ingénierie ou gestion de projet, à Istanbul, à Tokat ou à distance.
 
+Studio freelance : sites, applications et contenu automatisé · [portfolio-freelance-tau-ten.vercel.app](https://portfolio-freelance-tau-ten.vercel.app)
+
 **Langues :** français · anglais · turc · mooré · bambara
 
 </details>
@@ -44,6 +46,8 @@ Computer science engineering student at Gaziosmanpaşa University in Tokat (Tür
 
 I am looking for a **summer 2027 internship** in artificial intelligence, engineering or project management, in Istanbul, in Tokat or remotely.
 
+Freelance studio: websites, applications and automated content · [portfolio-freelance-tau-ten.vercel.app](https://portfolio-freelance-tau-ten.vercel.app)
+
 **Languages:** French · English · Turkish · Mooré · Bambara
 
 </details>
@@ -58,6 +62,8 @@ I am looking for a **summer 2027 internship** in artificial intelligence, engine
 Tokat Gaziosmanpaşa Üniversitesi'nde bilgisayar mühendisliği öğrencisiyim. Arayüzden yayına kadar eksiksiz web uygulamaları geliştiriyor ve yapay zekâyı bunlara entegre ediyorum.
 
 Yapay zekâ, mühendislik veya proje yönetimi alanında; İstanbul'da, Tokat'ta veya uzaktan **2027 yaz stajı** arıyorum.
+
+Freelance stüdyo: web siteleri, uygulamalar ve otomatik içerik · [portfolio-freelance-tau-ten.vercel.app](https://portfolio-freelance-tau-ten.vercel.app)
 
 **Diller:** Fransızca · İngilizce · Türkçe · Mooré · Bambara
 
