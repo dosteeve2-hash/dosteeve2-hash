@@ -12,7 +12,11 @@
 
 <br>
 
-[🇫🇷 Français](#fr) &nbsp;·&nbsp; [🇬🇧 English](#en) &nbsp;·&nbsp; [🇹🇷 Türkçe](#tr)
+[Français](#fr) &nbsp;·&nbsp; [English](#en) &nbsp;·&nbsp; [Türkçe](#tr)
+
+<br>
+
+[**Portfolio Ingénieur**](https://portfolio-v2-eight-eta.vercel.app) &nbsp;·&nbsp; [Portfolio Freelance](https://portfolio-freelance-tau-ten.vercel.app) &nbsp;·&nbsp; [Portfolio Académique](https://portfolio-academique-woad.vercel.app) &nbsp;·&nbsp; [Site personnel](https://steevedonaldcompaore.me) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/steeve-donald-compaor%C3%A9-65ba13296/)
 
 <img src="assets/divider.svg" alt="" width="100%">
 
@@ -21,7 +25,7 @@
 <a id="fr"></a>
 
 <details open>
-<summary><b>🇫🇷&nbsp; À propos</b></summary>
+<summary><b>À propos</b></summary>
 
 <br>
 
@@ -29,7 +33,7 @@
 
 Je cherche un **stage d'été 2027** en intelligence artificielle, ingénierie ou gestion de projet, à Istanbul, à Tokat ou à distance.
 
-Studio freelance : sites, applications et contenu automatisé · [portfolio-freelance-tau-ten.vercel.app](https://portfolio-freelance-tau-ten.vercel.app)
+Je travaille avec des agents d'IA de façon structurée (délégation, relecture, tests). Services freelance : sites, applications et contenu automatisé, sur le [portfolio Freelance](https://portfolio-freelance-tau-ten.vercel.app).
 
 **Langues :** français · anglais · turc · mooré · bambara
 
@@ -38,7 +42,7 @@ Studio freelance : sites, applications et contenu automatisé · [portfolio-free
 <a id="en"></a>
 
 <details>
-<summary><b>🇬🇧&nbsp; About</b></summary>
+<summary><b>About</b></summary>
 
 <br>
 
@@ -46,7 +50,7 @@ Computer science engineering student at Gaziosmanpaşa University in Tokat (Tür
 
 I am looking for a **summer 2027 internship** in artificial intelligence, engineering or project management, in Istanbul, in Tokat or remotely.
 
-Freelance studio: websites, applications and automated content · [portfolio-freelance-tau-ten.vercel.app](https://portfolio-freelance-tau-ten.vercel.app)
+I work with AI agents in a structured way (delegation, review, testing). Freelance services: websites, applications and automated content, on the [Freelance portfolio](https://portfolio-freelance-tau-ten.vercel.app).
 
 **Languages:** French · English · Turkish · Mooré · Bambara
 
@@ -55,7 +59,7 @@ Freelance studio: websites, applications and automated content · [portfolio-fre
 <a id="tr"></a>
 
 <details>
-<summary><b>🇹🇷&nbsp; Hakkımda</b></summary>
+<summary><b>Hakkımda</b></summary>
 
 <br>
 
@@ -63,7 +67,7 @@ Tokat Gaziosmanpaşa Üniversitesi'nde bilgisayar mühendisliği öğrencisiyim.
 
 Yapay zekâ, mühendislik veya proje yönetimi alanında; İstanbul'da, Tokat'ta veya uzaktan **2027 yaz stajı** arıyorum.
 
-Freelance stüdyo: web siteleri, uygulamalar ve otomatik içerik · [portfolio-freelance-tau-ten.vercel.app](https://portfolio-freelance-tau-ten.vercel.app)
+Yapay zekâ ajanlarıyla yapılandırılmış biçimde çalışıyorum (görev devri, gözden geçirme, test). Freelance hizmetler: web siteleri, uygulamalar ve otomatik içerik; [Freelance portfolyo](https://portfolio-freelance-tau-ten.vercel.app) sayfasında.
 
 **Diller:** Fransızca · İngilizce · Türkçe · Mooré · Bambara
 
@@ -71,55 +75,41 @@ Freelance stüdyo: web siteleri, uygulamalar ve otomatik içerik · [portfolio-f
 
 <div align="center"><img src="assets/divider.svg" alt="" width="100%"></div>
 
-## Ce que je construis &nbsp;·&nbsp; What I build &nbsp;·&nbsp; Ürettiklerim
-
-| | Projet · Project · Proje | |
-|---|---|---|
-| 🌐 | **[Portfolio](https://portfolio-v2-eight-eta.vercel.app)**<br>FR · EN · TR. Mon site, avec mon CV en trois langues. <sub>My site, with my CV in three languages. · Üç dilde CV'mle birlikte sitem.</sub> | Next.js · TypeScript |
-| 🤖 | **Banc d'orchestration IA**<br>Un manager délègue le travail à plusieurs agents (Copilot, Gemini, Codex, Ollama), route chaque tâche, bascule en cas de quota et tient un journal de délégation. <sub>AI orchestration bench · Yapay zekâ orkestrasyon test tezgâhı</sub> | PowerShell · Ollama |
-| 🎓 | **[UEEMT-Tokat](https://ueemt-tokat.vercel.app)**<br>La plateforme en ligne d'une association étudiante, avec des animations fluides. <sub>Online platform for a student association. · Bir öğrenci derneği için çevrimiçi platform.</sub> | Next.js · Supabase · Framer Motion |
-| 📊 | **[CompTrack](https://comptrack-chi.vercel.app)**<br>Une application de comptabilité pour PME, conforme au référentiel SYSCOHADA. <sub>Accounting for small businesses, SYSCOHADA. · KOBİ'ler için SYSCOHADA muhasebesi.</sub> | Next.js · TypeScript · Tailwind CSS |
-
-## Projets en ligne &nbsp;·&nbsp; Live projects &nbsp;·&nbsp; Canlı projeler
+## Projets &nbsp;·&nbsp; Projects &nbsp;·&nbsp; Projeler
 
 <table>
 <tr>
-<td align="center" width="96"><a href="https://duka-kappa.vercel.app"><img src="assets/brand/sugu.svg" alt="SUGU" width="56" height="56"><br><sub><b>SUGU</b></sub></a></td>
-<td align="center" width="96"><a href="https://taama-mu.vercel.app"><img src="assets/brand/milltrack.svg" alt="MillTrack" width="56" height="56"><br><sub><b>MillTrack</b></sub></a></td>
-<td align="center" width="96"><a href="https://comptrack-chi.vercel.app"><img src="assets/brand/comptrack.svg" alt="CompTrack" width="56" height="56"><br><sub><b>CompTrack</b></sub></a></td>
-<td align="center" width="96"><a href="https://valuechain-connect.vercel.app"><img src="assets/brand/valuechain-connect.svg" alt="ValueChain Connect" width="56" height="56"><br><sub><b>ValueChain Connect</b></sub></a></td>
-<td align="center" width="96"><a href="https://forja-pied.vercel.app"><img src="assets/brand/forja.svg" alt="FORJA" width="56" height="56"><br><sub><b>FORJA</b></sub></a></td>
-<td align="center" width="96"><a href="https://indubot-afrika.vercel.app"><img src="assets/brand/indubot.svg" alt="Indubot" width="56" height="56"><br><sub><b>Indubot</b></sub></a></td>
-<td align="center" width="96"><a href="https://burkinacollect-bf.vercel.app"><img src="assets/brand/burkinacollect.svg" alt="BurkinaCollect" width="56" height="56"><br><sub><b>BurkinaCollect</b></sub></a></td>
-<td align="center" width="96"><a href="https://fine-game-three.vercel.app"><img src="assets/brand/fine-game.svg" alt="FINE Game" width="56" height="56"><br><sub><b>FINE Game</b></sub></a></td>
-<td align="center" width="96"><a href="https://agrotrack-bf.vercel.app"><img src="assets/brand/agrotrack.svg" alt="AgroTrack" width="56" height="56"><br><sub><b>AgroTrack</b></sub></a></td>
+<td width="50%" valign="top"><a href="https://duka-kappa.vercel.app"><img src="assets/projets/sugu.webp" alt="Capture de SUGU" width="100%"></a><br><b><a href="https://duka-kappa.vercel.app">SUGU</a></b> &nbsp;<sub>Prototype</sub><br>Le cahier de comptes du commerçant : ventes, achats, stock et crédit client sur téléphone, en français, anglais, jula et mooré.<br><sub><i>Product in development. Sales, stock and customer credit for small traders.</i></sub><br><sub>Next.js · TypeScript · Tailwind CSS · Better Auth</sub></td>
+<td width="50%" valign="top"><a href="https://comptrack-chi.vercel.app"><img src="assets/projets/comptrack.webp" alt="Capture de CompTrack" width="100%"></a><br><b><a href="https://comptrack-chi.vercel.app">CompTrack</a></b> &nbsp;<sub>Aperçu</sub><br>Comptabilité en partie double pour PME, en FCFA : opérations, factures et rapports.<br><sub><i>Double-entry accounting for small businesses, in FCFA.</i></sub><br><sub>Next.js · TypeScript · Supabase · Framer Motion</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://valuechain-connect.vercel.app"><img src="assets/projets/valuechain-connect.webp" alt="Capture de ValueChain Connect" width="100%"></a><br><b><a href="https://valuechain-connect.vercel.app">ValueChain Connect</a></b> &nbsp;<sub>Prototype</sub><br>Place de marché B2B entre producteurs, coopératives et transformateurs. Le prototype utilise des données de démonstration.<br><sub><i>B2B marketplace linking producers and processors; demo data.</i></sub><br><sub>Next.js · TypeScript · Supabase · Framer Motion</sub></td>
+<td width="50%" valign="top"><a href="https://indubot-afrika.vercel.app"><img src="assets/projets/indubot.webp" alt="Capture de Indubot" width="100%"></a><br><b><a href="https://indubot-afrika.vercel.app">Indubot</a></b> &nbsp;<sub>En développement</sub><br>Vue d'ensemble de production en temps réel : quelle machine s'arrête, et pourquoi. Démonstration à données illustratives.<br><sub><i>Real-time production overview; illustrative demo data.</i></sub><br><sub>Next.js · TypeScript · Tailwind CSS · Better Auth</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://burkinacollect-bf.vercel.app"><img src="assets/projets/burkinacollect.webp" alt="Capture de BurkinaCollect" width="100%"></a><br><b><a href="https://burkinacollect-bf.vercel.app">BurkinaCollect</a></b> &nbsp;<sub>En développement</sub><br>Collecte de données de terrain hors ligne pour les équipes de terrain. Vitrine et synchronisation ; l'application de collecte complète n'est pas encore disponible.<br><sub><i>Offline field data collection; landing page and sync, full app not yet released.</i></sub><br><sub>Next.js · TypeScript · Tailwind CSS</sub></td>
+<td width="50%" valign="top"><a href="https://fine-game-three.vercel.app"><img src="assets/projets/fine-game.webp" alt="Capture de FINE Game" width="100%"></a><br><b><a href="https://fine-game-three.vercel.app">FINE Game</a></b> &nbsp;<sub>En ligne</sub><br>Jeu de plateau d'éducation financière, jouable hors ligne sur téléphone et ordinateur, de 2 à 4 joueurs avec des robots, en français, anglais et turc.<br><sub><i>Financial-literacy board game, playable offline.</i></sub><br><sub>Next.js · TypeScript · Framer Motion</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://agrotrack-bf.vercel.app"><img src="assets/projets/agrotrack.webp" alt="Capture de AgroTrack" width="100%"></a><br><b><a href="https://agrotrack-bf.vercel.app">AgroTrack</a></b> &nbsp;<sub>En développement</sub><br>Suivi des parcelles, des membres et des collectes pour les coopératives agricoles. Le tableau de bord n'est pas ouvert en production.<br><sub><i>Plot and member tracking for agricultural cooperatives; dashboard not open in production.</i></sub><br><sub>Next.js · TypeScript · Supabase · Tailwind CSS</sub></td>
+<td width="50%"></td>
 </tr>
 </table>
 
+<sub>Captures du site en ligne. Les projets marqués « Prototype », « Aperçu » ou « En développement » ne sont pas des produits finis. · Screenshots of the live sites; projects marked as prototype, preview or in development are not finished products. · Canlı sitelerin ekran görüntüleri; prototip, önizleme veya geliştirme aşamasındaki projeler bitmiş ürün değildir.</sub>
+
 ## Outils &nbsp;·&nbsp; Tools &nbsp;·&nbsp; Araçlar
 
-<p>
-<img src="https://img.shields.io/badge/Next.js-070e1f?style=flat-square&logo=nextdotjs&logoColor=f5f0e8" alt="Next.js">
-<img src="https://img.shields.io/badge/TypeScript-070e1f?style=flat-square&logo=typescript&logoColor=2dd4ff" alt="TypeScript">
-<img src="https://img.shields.io/badge/Tailwind_CSS-070e1f?style=flat-square&logo=tailwindcss&logoColor=2dd4ff" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/PostgreSQL-070e1f?style=flat-square&logo=postgresql&logoColor=f0a832" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/Vercel-070e1f?style=flat-square&logo=vercel&logoColor=f5f0e8" alt="Vercel">
-<img src="https://img.shields.io/badge/Git-070e1f?style=flat-square&logo=git&logoColor=f0a832" alt="Git">
-<img src="https://img.shields.io/badge/Python-070e1f?style=flat-square&logo=python&logoColor=f0a832" alt="Python">
-<img src="https://img.shields.io/badge/Intégration_d'IA-070e1f?style=flat-square&logo=anthropic&logoColor=f0a832" alt="Intégration d'IA">
-</p>
+Next.js · TypeScript · Tailwind CSS · PostgreSQL · Supabase · Vercel · Git · Python · Intégration d'IA
 
 <div align="center"><img src="assets/divider.svg" alt="" width="100%">
 
 <br>
 
-<a href="https://portfolio-v2-eight-eta.vercel.app"><img src="https://img.shields.io/badge/Portfolio-f0a832?style=for-the-badge&logo=vercel&logoColor=070e1f" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/steeve-donald-compaor%C3%A9-65ba13296/"><img src="https://img.shields.io/badge/LinkedIn-2dd4ff?style=for-the-badge&logo=linkedin&logoColor=070e1f" alt="LinkedIn"></a>
-<a href="mailto:dosteeve2@gmail.com"><img src="https://img.shields.io/badge/E--mail-f5f0e8?style=for-the-badge&logo=gmail&logoColor=070e1f" alt="E-mail"></a>
-<a href="https://portfolio-v2-eight-eta.vercel.app/cv/Steeve-Donald-Compaore-CV-fr.pdf"><img src="https://img.shields.io/badge/CV_(PDF)-9ba8c4?style=for-the-badge&logo=adobeacrobatreader&logoColor=070e1f" alt="CV"></a>
+[Portfolio Ingénieur](https://portfolio-v2-eight-eta.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/steeve-donald-compaor%C3%A9-65ba13296/) &nbsp;·&nbsp; [E-mail](mailto:dosteeve2@gmail.com) &nbsp;·&nbsp; [CV (PDF)](https://portfolio-v2-eight-eta.vercel.app/cv/Steeve-Donald-Compaore-CV-fr.pdf)
 
-<br><br>
+<br>
 
-<sub><i>La forge du futur — Là où le futur commence. · The forge of the future — Where the future begins. · Geleceğin demirhanesi — Geleceğin başladığı yer.</i></sub>
+<sub><i>La forge du futur. · The forge of the future. · Geleceğin demirhanesi.</i></sub>
 
 </div>
